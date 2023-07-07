@@ -1,2 +1,2 @@
-https://api.openai.com
-https://api.google.com
+api.openai.com
+api.google.com
